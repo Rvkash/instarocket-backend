@@ -8,3 +8,5 @@
 - Feed
 - Likes
 - Show profiles
+
+Made by 💙 [Rafael Linhares](https://www.linkedin.com/in/rafael-linhares-js/)
