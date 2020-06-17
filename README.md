@@ -4,7 +4,7 @@
 <h1 align="center"> A backend based instagram studies </h1>
 
 
-## :photo:Content
+## 📌 Content
 - Feed
 - Likes
 - Show profiles
